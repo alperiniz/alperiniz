@@ -1,16 +1,50 @@
-### Hi there 👋
+## Benim hakkımda bilgiler.
+<strong>Herkese merhaba, ben Alper. Kendi çapımda yani yaklaşık 6 yıldır UI geliştiriciliği yapıyorum, cpp & cs & qt dilleri üzerinde çalışıyorum ve alanımda iyi olduğumu düşünüyorum. Ayrıca küçük ücretler karşılığında yazılım geliştiriyorum.</strong>
 
-<!--
-**alperiniz/alperiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+<br />
+<div align="center">
+    <br>
+    <br>
+    <img width="200" src="https://raw.githubusercontent.com/adelio-thalent/adelio-thalent/main/photo/logo.png"/>
+    <br/>
+    <br/>
+    <a href="https://www.youtube.com/channel/UC3RerdHQ6qKyqMAv35FaXwA/videos">📺 My Youtube channel.</a> 
+</div>
+<div align="center">
+    <br>
+    <br>
+    <img width="200" src="https://raw.githubusercontent.com/adelio-thalent/adelio-thalent/main/photo/e-mail.png"/>
+    <br/>
+    <br/>
+    <p><strong>Bana ulaşmak isterseniz.</strong></p>
+    <br />
+    <a href="mailto:kreuzbergofficial@gmail.com">Bana Mail Gönder!</a>
+    <br />
+</div>
+<div align="center">
+    <br>
+    <br>
+    <img width="200" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+    <br/>
+    <br/>
+    <p><strong>Kullandığım yazılım dilleri : cs, cpp, qt ve bazı projelerimde html</strong></p>
+    <br />
+    <br />
+</div>
+<div align="center">
+    <br>
+    <br>
+    <img width="200" src="https://raw.githubusercontent.com/adelio-thalent/adelio-thalent/main/photo/github_PNG71.png"/>
+    <br/>
+    <br/>
+    <p><strong>Cs Bilgim : %75</strong></p>  
+    <p><strong>Cpp Bilgim : %50</strong></p> 
+    <p><strong>QT bilgim : %30</strong></p>  
+</div>
+<div align="center">
+</div>
+
